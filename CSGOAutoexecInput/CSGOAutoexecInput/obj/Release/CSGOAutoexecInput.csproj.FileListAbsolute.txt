@@ -1,0 +1,10 @@
+c:\users\mattias\Desktop\Development\Visual Studio\Projects\Unorganized\CSGOAutoexecInput\CSGOAutoexecInput\bin\Release\CSGOConfigInput.exe.config
+c:\users\mattias\Desktop\Development\Visual Studio\Projects\Unorganized\CSGOAutoexecInput\CSGOAutoexecInput\bin\Release\CSGOConfigInput.exe
+c:\users\mattias\Desktop\Development\Visual Studio\Projects\Unorganized\CSGOAutoexecInput\CSGOAutoexecInput\bin\Release\CSGOConfigInput.pdb
+c:\users\mattias\Desktop\Development\Visual Studio\Projects\Unorganized\CSGOAutoexecInput\CSGOAutoexecInput\obj\Release\CSGOConfigInput.Form1.resources
+c:\users\mattias\Desktop\Development\Visual Studio\Projects\Unorganized\CSGOAutoexecInput\CSGOAutoexecInput\obj\Release\CSGOConfigInput.Properties.Resources.resources
+c:\users\mattias\Desktop\Development\Visual Studio\Projects\Unorganized\CSGOAutoexecInput\CSGOAutoexecInput\obj\Release\CSGOAutoexecInput.csproj.GenerateResource.Cache
+c:\users\mattias\Desktop\Development\Visual Studio\Projects\Unorganized\CSGOAutoexecInput\CSGOAutoexecInput\obj\Release\CSGOAutoexecInput.csproj.CoreCompileInputs.cache
+c:\users\mattias\Desktop\Development\Visual Studio\Projects\Unorganized\CSGOAutoexecInput\CSGOAutoexecInput\obj\Release\CSGOConfigInput.exe
+c:\users\mattias\Desktop\Development\Visual Studio\Projects\Unorganized\CSGOAutoexecInput\CSGOAutoexecInput\obj\Release\CSGOConfigInput.pdb
+C:\Users\Mattias\Desktop\Development\Visual Studio\Projects\Unorganized\CSGOAutoexecInput\CSGOAutoexecInput\obj\Release\CSGOAutoexecInput.csprojAssemblyReference.cache
